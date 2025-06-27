@@ -294,3 +294,28 @@ For issues and support:
 
 
 ![](assets/2025-06-17-20-33-47.png)
+
+
+## ⚙️ Automatic Scripts
+
+### 🔧 Install the Environment
+
+```bash
+bash install.sh
+```
+
+###  Start the App
+
+```bash
+bash start.sh
+```
+
+
+---
+
+##  Monitor the Logs
+
+```bash
+bash start.sh monitor
+```
+
