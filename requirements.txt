@@ -1,0 +1,9 @@
+crewai
+langchain-ibm
+langchain-huggingface
+langchain-community
+faiss-cpu
+requests
+numpy
+python-dotenv
+sentence-transformers
